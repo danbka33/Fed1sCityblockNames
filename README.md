@@ -35,4 +35,11 @@ To this
 
 ## Blueprint
 
+This railway is designed for trains 1-1 and 1-2 (locomotive-wagons). The reliability/effectiveness of trains 1-3 and above is not guaranteed.
+
+The network forms the architecture of a city block with a minimum cell of 6x6 fully inscribed fragments.
+
+
+![cityblock](https://github.com/danbka33/Fed1sCityblockNames/raw/master/guide/cityblock.png)
+
 [Fed1s Cityblock](https://github.com/danbka33/Fed1sCityblockNames/raw/master/guide/blueprint.txt)
