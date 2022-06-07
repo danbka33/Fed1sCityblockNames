@@ -1,0 +1,11 @@
+{
+  "name": "Fed1sCityblockNames",
+  "version": "1.0.1",
+  "title": "Fed1s CityBlock naming",
+  "author": "danbka33",
+  "contact": "",
+  "homepage": "",
+  "description": "Adds automatic setting of station names for the fed1s cityblock.",
+  "factorio_version": "1.1",
+  "dependencies": ["base >= 1.1.27", "(?)LogisticTrainNetwork"]
+}
