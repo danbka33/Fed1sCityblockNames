@@ -23,6 +23,16 @@ Adds automatic setting of station names for the fed1s cityblock.
 
 ![5](https://github.com/danbka33/Fed1sCityblockNames/raw/master/guide/5.png)
 
+## In action
+
+Transform from this
+
+![from](https://github.com/danbka33/Fed1sCityblockNames/raw/master/guide/from.png)
+
+To this
+
+![to](https://github.com/danbka33/Fed1sCityblockNames/raw/master/guide/to.png)
+
 ## Blueprint
 
 [Fed1s Cityblock](https://github.com/danbka33/Fed1sCityblockNames/raw/master/guide/blueprint.txt)
